@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/html": [
+      "default",
+      {}
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 113",
+    "not firefox <= 112",
+    "not ios_saf <= 14.8",
+    "not opera <= 97",
+    "not safari <= 14.1",
+    "not firefox <= 113",
+    "not opera <= 98"
+  ]
+}
